@@ -1,0 +1,61 @@
+{
+    "Target year": 2023,
+    "Total records in dataset": 3000,
+    "Incidents in target year": 315,
+    "Count per attack type": {
+        "DDoS": 51,
+        "Ransomware": 50,
+        "Phishing": 46,
+        "Malware": 55,
+        "Man-in-the-Middle": 50,
+        "SQL Injection": 63
+    },
+    "Total financial loss (USD millions)": 15958.08,
+    "Average financial loss (USD millions)": 50.66,
+    "Five costliest incidents": [
+        {
+            "Incident ID": "INC-1371",
+            "Year": "2023",
+            "Attack Type": "Malware",
+            "Financial Loss (in Million $)": 99.72,
+            "Country": "Australia",
+            "Target Industry": "Retail"
+        },
+        {
+            "Incident ID": "INC-1913",
+            "Year": "2023",
+            "Attack Type": "Man-in-the-Middle",
+            "Financial Loss (in Million $)": 99.71,
+            "Country": "France",
+            "Target Industry": "Telecommunications"
+        },
+        {
+            "Incident ID": "INC-2380",
+            "Year": "2023",
+            "Attack Type": "DDoS",
+            "Financial Loss (in Million $)": 99.64,
+            "Country": "USA",
+            "Target Industry": "IT"
+        },
+        {
+            "Incident ID": "INC-2161",
+            "Year": "2023",
+            "Attack Type": "DDoS",
+            "Financial Loss (in Million $)": 99.62,
+            "Country": "Australia",
+            "Target Industry": "IT"
+        },
+        {
+            "Incident ID": "INC-233",
+            "Year": "2023",
+            "Attack Type": "SQL Injection",
+            "Financial Loss (in Million $)": 99.19,
+            "Country": "Australia",
+            "Target Industry": "Healthcare"
+        }
+    ],
+    "Filtered CSV file": "filtered_cybersecurity_incidents.csv",
+    "JSON summary file": "cybersecurity_summary.json",
+    "Backup verification": "Pending",
+    "Report file": "cybersecurity_report.txt"
+}

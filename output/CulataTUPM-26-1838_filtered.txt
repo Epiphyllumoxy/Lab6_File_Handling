@@ -1,3 +1,0 @@
-Student ID: TUPM-26-1838
-ID Sum: 28
-Verification Value: 176

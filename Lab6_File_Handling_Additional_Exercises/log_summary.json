@@ -1,0 +1,19 @@
+{
+    "Records processed": 1028,
+    "Target status class": "2xx",
+    "Records in target class": 858,
+    "Count per status code": {
+        "200": 850,
+        "206": 8
+    },
+    "Five most requested URLs": [
+        "GET /login.php HTTP/1.1",
+        "GET /home.php HTTP/1.1",
+        "GET /css/normalize.css HTTP/1.1",
+        "GET /css/bootstrap.min.css HTTP/1.1",
+        "GET /css/font-awesome.min.css HTTP/1.1"
+    ],
+    "Filtered CSV file": "filtered_weblog.csv",
+    "JSON summary file": "log_summary.json",
+    "Backup verification": "Verified"
+}

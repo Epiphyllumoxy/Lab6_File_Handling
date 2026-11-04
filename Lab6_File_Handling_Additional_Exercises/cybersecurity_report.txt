@@ -1,0 +1,34 @@
+CYBERSECURITY INCIDENT REPORT SUMMARY
+==================================================
+Target Year Evaluation: 2023
+Total Records in Dataset: 3000
+Total Incidents in Target Year: 315
+
+Financial Summary:
+--------------------------------------------------
+Total Financial Loss: $15,958.08 Million USD
+Average Financial Loss: $50.66 Million USD
+
+Distribution Count Per Attack Type:
+--------------------------------------------------
+- DDoS: 51 incident(s)
+- Ransomware: 50 incident(s)
+- Phishing: 46 incident(s)
+- Malware: 55 incident(s)
+- Man-in-the-Middle: 50 incident(s)
+- SQL Injection: 63 incident(s)
+
+Five Costliest Incidents:
+--------------------------------------------------
+1. ID: INC-1371 | Industry: Retail | Loss: $99.72M
+2. ID: INC-1913 | Industry: Telecommunications | Loss: $99.71M
+3. ID: INC-2380 | Industry: IT | Loss: $99.64M
+4. ID: INC-2161 | Industry: IT | Loss: $99.62M
+5. ID: INC-233 | Industry: Healthcare | Loss: $99.19M
+
+Generated Output Documentation:
+--------------------------------------------------
+- Filtered Dataset: filtered_cybersecurity_incidents.csv
+- JSON Overview: cybersecurity_summary.json
+- Backup Log: cybersecurity_summary_backup.json (Status: Verified)
+==================================================

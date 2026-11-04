@@ -1,0 +1,316 @@
+Incident ID,Year,Attack Type,Financial Loss (in Million $),Country,Target Industry
+INC-10,2023,DDoS,69.14,UK,Healthcare
+INC-14,2023,DDoS,58.37,France,Healthcare
+INC-22,2023,Ransomware,17.72,France,Education
+INC-25,2023,DDoS,51.84,Brazil,Telecommunications
+INC-35,2023,Phishing,14.51,Brazil,Healthcare
+INC-51,2023,DDoS,59.69,USA,Retail
+INC-76,2023,Phishing,24.65,Australia,Telecommunications
+INC-86,2023,Malware,55.18,France,Government
+INC-92,2023,DDoS,81.26,UK,Banking
+INC-94,2023,Man-in-the-Middle,88.65,France,Retail
+INC-95,2023,Malware,1.51,Australia,Telecommunications
+INC-100,2023,Malware,22.87,Japan,Education
+INC-108,2023,Man-in-the-Middle,10.18,Brazil,IT
+INC-116,2023,Man-in-the-Middle,57.34,Australia,Banking
+INC-121,2023,SQL Injection,85.64,UK,Banking
+INC-123,2023,Ransomware,42.14,Russia,Banking
+INC-127,2023,Malware,70.46,Germany,Government
+INC-128,2023,Man-in-the-Middle,48.71,China,Healthcare
+INC-132,2023,Ransomware,64.08,France,Retail
+INC-153,2023,SQL Injection,56.76,Brazil,Retail
+INC-154,2023,DDoS,76.25,Australia,Government
+INC-174,2023,Malware,53.34,France,Healthcare
+INC-187,2023,Malware,62.77,Brazil,Telecommunications
+INC-198,2023,Ransomware,60.08,Russia,Telecommunications
+INC-212,2023,Phishing,11.72,India,Telecommunications
+INC-220,2023,Man-in-the-Middle,20.15,Brazil,Banking
+INC-233,2023,SQL Injection,99.19,Australia,Healthcare
+INC-241,2023,DDoS,55.28,UK,Government
+INC-263,2023,Man-in-the-Middle,87.83,Germany,Telecommunications
+INC-265,2023,Ransomware,52.86,Japan,Banking
+INC-279,2023,Malware,23.98,USA,Telecommunications
+INC-281,2023,SQL Injection,3.66,Russia,Telecommunications
+INC-305,2023,SQL Injection,75.63,Russia,Education
+INC-306,2023,Man-in-the-Middle,64.21,Japan,Healthcare
+INC-320,2023,Ransomware,3.51,India,Telecommunications
+INC-337,2023,SQL Injection,53.82,UK,Telecommunications
+INC-343,2023,Malware,54.21,India,IT
+INC-345,2023,Ransomware,71.31,USA,Education
+INC-358,2023,Man-in-the-Middle,74.85,Brazil,Retail
+INC-366,2023,SQL Injection,30.68,Germany,Banking
+INC-375,2023,Man-in-the-Middle,92.57,Australia,Retail
+INC-384,2023,Phishing,31.03,France,Education
+INC-396,2023,Phishing,88.55,Germany,Government
+INC-425,2023,SQL Injection,69.76,France,Healthcare
+INC-432,2023,SQL Injection,2.85,India,Retail
+INC-439,2023,DDoS,82.11,India,Education
+INC-442,2023,Malware,55.34,UK,Banking
+INC-446,2023,Ransomware,41.15,India,Education
+INC-448,2023,SQL Injection,47.59,Brazil,Healthcare
+INC-452,2023,Malware,37.73,Australia,Healthcare
+INC-464,2023,Phishing,33.06,UK,Retail
+INC-470,2023,Ransomware,66.38,Brazil,Retail
+INC-473,2023,DDoS,84.19,Brazil,IT
+INC-479,2023,Man-in-the-Middle,28.82,China,Telecommunications
+INC-481,2023,SQL Injection,97.37,Brazil,IT
+INC-484,2023,Malware,70.19,Germany,Banking
+INC-486,2023,Malware,98.07,Russia,IT
+INC-496,2023,Phishing,68.28,Japan,Education
+INC-499,2023,Ransomware,41.54,Australia,Retail
+INC-501,2023,Ransomware,34.94,USA,IT
+INC-512,2023,SQL Injection,45.38,Japan,Healthcare
+INC-527,2023,SQL Injection,92.35,India,IT
+INC-539,2023,DDoS,46.2,Russia,Healthcare
+INC-560,2023,Malware,80.1,China,Telecommunications
+INC-566,2023,Ransomware,4.6,Brazil,Government
+INC-569,2023,DDoS,51.49,Germany,Telecommunications
+INC-585,2023,Ransomware,4.32,India,Retail
+INC-589,2023,DDoS,5.32,USA,Healthcare
+INC-590,2023,DDoS,31.48,Australia,IT
+INC-625,2023,Ransomware,18.53,India,IT
+INC-647,2023,SQL Injection,28.71,India,Government
+INC-648,2023,SQL Injection,42.5,Australia,Education
+INC-653,2023,Ransomware,33.66,Japan,Healthcare
+INC-659,2023,SQL Injection,6.09,Germany,Telecommunications
+INC-664,2023,DDoS,65.96,France,Education
+INC-666,2023,Malware,16.02,UK,Banking
+INC-679,2023,Man-in-the-Middle,90.37,Brazil,Telecommunications
+INC-684,2023,Malware,61.56,Brazil,Healthcare
+INC-712,2023,Malware,51.91,Japan,Retail
+INC-740,2023,Phishing,72.57,Brazil,Government
+INC-764,2023,SQL Injection,94.48,Germany,Banking
+INC-767,2023,Malware,19.18,Brazil,Government
+INC-768,2023,Ransomware,83.18,India,Banking
+INC-776,2023,Phishing,23.66,UK,Healthcare
+INC-781,2023,SQL Injection,48.53,India,Banking
+INC-782,2023,Ransomware,94.86,Australia,Education
+INC-785,2023,Malware,3.86,Germany,Telecommunications
+INC-787,2023,Ransomware,84.92,Germany,Healthcare
+INC-797,2023,Man-in-the-Middle,36.68,Japan,Retail
+INC-835,2023,Man-in-the-Middle,86.98,Japan,Telecommunications
+INC-850,2023,DDoS,68.86,UK,IT
+INC-852,2023,Ransomware,84.13,USA,Government
+INC-857,2023,Phishing,38.89,India,Retail
+INC-867,2023,DDoS,23.83,India,Banking
+INC-878,2023,Man-in-the-Middle,9.43,France,Retail
+INC-898,2023,SQL Injection,87.8,Japan,Government
+INC-908,2023,Ransomware,54.79,Germany,Healthcare
+INC-917,2023,Malware,23.74,China,Education
+INC-935,2023,SQL Injection,42.33,Japan,Retail
+INC-943,2023,Phishing,71.86,Brazil,Banking
+INC-947,2023,DDoS,45.97,Brazil,IT
+INC-955,2023,Man-in-the-Middle,37.73,China,Telecommunications
+INC-960,2023,Phishing,90.04,China,Retail
+INC-968,2023,SQL Injection,29.63,France,Government
+INC-976,2023,Ransomware,28.18,Germany,Healthcare
+INC-1014,2023,Malware,9.99,France,Banking
+INC-1033,2023,Man-in-the-Middle,26.45,Russia,IT
+INC-1034,2023,SQL Injection,14.12,Germany,Healthcare
+INC-1037,2023,Phishing,69.45,Brazil,Banking
+INC-1064,2023,DDoS,55.94,Australia,IT
+INC-1084,2023,DDoS,92.32,France,Retail
+INC-1104,2023,Malware,95.97,India,Education
+INC-1135,2023,Ransomware,32.18,Brazil,Telecommunications
+INC-1137,2023,Man-in-the-Middle,81.57,Japan,Government
+INC-1178,2023,SQL Injection,2.46,China,Banking
+INC-1184,2023,Malware,67.23,Australia,Education
+INC-1185,2023,DDoS,86.81,Russia,IT
+INC-1187,2023,DDoS,96.61,Russia,Telecommunications
+INC-1203,2023,SQL Injection,40.63,India,Government
+INC-1204,2023,Malware,11.89,China,IT
+INC-1208,2023,Malware,49.13,UK,IT
+INC-1222,2023,SQL Injection,77.96,USA,Education
+INC-1229,2023,Phishing,9.24,Russia,Banking
+INC-1232,2023,Malware,71.94,India,Healthcare
+INC-1250,2023,Man-in-the-Middle,80.97,Germany,Banking
+INC-1257,2023,DDoS,97.18,Australia,Government
+INC-1264,2023,DDoS,52.75,UK,IT
+INC-1266,2023,Phishing,42.69,Brazil,Retail
+INC-1269,2023,SQL Injection,46.58,France,Banking
+INC-1283,2023,SQL Injection,94.14,Germany,Telecommunications
+INC-1291,2023,Man-in-the-Middle,88.81,USA,IT
+INC-1295,2023,Phishing,28.54,UK,Retail
+INC-1323,2023,Man-in-the-Middle,26.14,Germany,Education
+INC-1330,2023,Phishing,48.25,Japan,Healthcare
+INC-1331,2023,Ransomware,45.88,China,Education
+INC-1340,2023,Malware,62.43,Germany,Retail
+INC-1356,2023,SQL Injection,89.04,Brazil,Education
+INC-1366,2023,Man-in-the-Middle,75.8,Germany,Healthcare
+INC-1371,2023,Malware,99.72,Australia,Retail
+INC-1372,2023,DDoS,22.71,Russia,IT
+INC-1387,2023,Ransomware,84.79,France,Telecommunications
+INC-1395,2023,SQL Injection,19.37,USA,IT
+INC-1401,2023,Malware,54.29,USA,Healthcare
+INC-1407,2023,Man-in-the-Middle,49.53,China,Education
+INC-1421,2023,DDoS,11.73,USA,Telecommunications
+INC-1442,2023,Man-in-the-Middle,20.35,UK,IT
+INC-1453,2023,Phishing,88.71,India,IT
+INC-1455,2023,Malware,50.02,USA,Retail
+INC-1457,2023,Phishing,43.58,China,IT
+INC-1478,2023,DDoS,50.34,Brazil,Education
+INC-1489,2023,Ransomware,15.08,Russia,Healthcare
+INC-1499,2023,SQL Injection,4.18,China,Education
+INC-1518,2023,DDoS,33.51,Russia,Banking
+INC-1534,2023,Ransomware,5.57,India,Retail
+INC-1535,2023,SQL Injection,48.1,France,Banking
+INC-1545,2023,SQL Injection,72.9,Brazil,Healthcare
+INC-1553,2023,Phishing,75.13,Japan,Banking
+INC-1555,2023,SQL Injection,54.41,China,Telecommunications
+INC-1572,2023,DDoS,42.75,Brazil,Government
+INC-1579,2023,Malware,5.24,Australia,Retail
+INC-1597,2023,SQL Injection,60.53,India,Government
+INC-1604,2023,Man-in-the-Middle,16.42,Japan,Education
+INC-1610,2023,Ransomware,23.18,China,IT
+INC-1628,2023,Man-in-the-Middle,85.85,France,Government
+INC-1631,2023,Phishing,37.38,France,Education
+INC-1633,2023,SQL Injection,34.87,Russia,Retail
+INC-1634,2023,Ransomware,17.26,Australia,IT
+INC-1637,2023,SQL Injection,31.46,Japan,Telecommunications
+INC-1639,2023,Ransomware,12.79,USA,Healthcare
+INC-1661,2023,Ransomware,58.79,Japan,Education
+INC-1666,2023,Malware,82.38,UK,IT
+INC-1672,2023,DDoS,97.15,China,Healthcare
+INC-1675,2023,SQL Injection,37.4,Germany,Education
+INC-1689,2023,DDoS,53.46,China,Government
+INC-1707,2023,Malware,47.22,Russia,IT
+INC-1717,2023,SQL Injection,89.46,USA,Government
+INC-1718,2023,Malware,35.91,USA,Banking
+INC-1720,2023,Phishing,15.21,China,Banking
+INC-1723,2023,Man-in-the-Middle,59.18,Brazil,Retail
+INC-1725,2023,Phishing,33.27,China,Banking
+INC-1729,2023,DDoS,34.46,India,Government
+INC-1740,2023,Malware,66.06,USA,Banking
+INC-1750,2023,DDoS,54.0,UK,Education
+INC-1770,2023,Phishing,49.32,Japan,Healthcare
+INC-1782,2023,SQL Injection,31.54,Brazil,Telecommunications
+INC-1795,2023,SQL Injection,30.66,USA,Banking
+INC-1800,2023,Man-in-the-Middle,66.91,Australia,Telecommunications
+INC-1830,2023,Ransomware,71.4,Brazil,Telecommunications
+INC-1842,2023,Malware,21.53,USA,IT
+INC-1843,2023,Malware,43.51,China,IT
+INC-1847,2023,Malware,73.74,Japan,IT
+INC-1848,2023,Man-in-the-Middle,93.25,Australia,Retail
+INC-1853,2023,Ransomware,21.54,Australia,Healthcare
+INC-1855,2023,Malware,13.99,USA,Banking
+INC-1862,2023,Man-in-the-Middle,26.65,Japan,IT
+INC-1895,2023,Ransomware,95.3,Japan,Retail
+INC-1910,2023,Phishing,72.54,France,Healthcare
+INC-1913,2023,Man-in-the-Middle,99.71,France,Telecommunications
+INC-1932,2023,Man-in-the-Middle,87.39,France,Education
+INC-1937,2023,Phishing,87.55,Germany,Retail
+INC-1941,2023,Ransomware,28.77,Japan,Retail
+INC-1953,2023,Ransomware,63.45,France,Government
+INC-1956,2023,SQL Injection,43.96,Japan,Banking
+INC-1969,2023,Malware,71.05,Germany,Retail
+INC-1984,2023,Phishing,43.49,China,Government
+INC-2000,2023,Ransomware,96.44,Australia,Government
+INC-2002,2023,Ransomware,54.09,Russia,Banking
+INC-2008,2023,DDoS,34.8,UK,Government
+INC-2038,2023,Man-in-the-Middle,35.37,China,Education
+INC-2039,2023,SQL Injection,69.61,Japan,Government
+INC-2046,2023,Ransomware,93.34,USA,Government
+INC-2060,2023,Ransomware,86.23,UK,IT
+INC-2061,2023,SQL Injection,49.76,Germany,Retail
+INC-2074,2023,Malware,86.77,Germany,Government
+INC-2087,2023,Phishing,35.27,Japan,IT
+INC-2094,2023,SQL Injection,45.85,Germany,Healthcare
+INC-2100,2023,Phishing,29.42,USA,IT
+INC-2120,2023,Phishing,12.62,Germany,Government
+INC-2131,2023,Malware,23.86,UK,Education
+INC-2149,2023,Man-in-the-Middle,27.58,Brazil,Education
+INC-2158,2023,Ransomware,54.26,France,Education
+INC-2161,2023,DDoS,99.62,Australia,IT
+INC-2163,2023,SQL Injection,80.14,India,Telecommunications
+INC-2168,2023,DDoS,92.58,China,Healthcare
+INC-2181,2023,SQL Injection,78.9,UK,Telecommunications
+INC-2199,2023,DDoS,42.64,China,Education
+INC-2200,2023,Phishing,39.53,Germany,Banking
+INC-2209,2023,Phishing,53.07,India,Retail
+INC-2219,2023,DDoS,93.72,Germany,IT
+INC-2225,2023,Malware,52.54,USA,IT
+INC-2228,2023,Malware,6.35,Russia,IT
+INC-2232,2023,Ransomware,9.32,India,Education
+INC-2255,2023,Man-in-the-Middle,90.85,India,IT
+INC-2266,2023,Man-in-the-Middle,3.47,China,Banking
+INC-2267,2023,DDoS,53.59,USA,Banking
+INC-2279,2023,Phishing,5.8,France,Education
+INC-2282,2023,Phishing,87.62,India,Banking
+INC-2287,2023,Phishing,3.54,Japan,Government
+INC-2292,2023,SQL Injection,30.19,UK,Telecommunications
+INC-2304,2023,Phishing,81.81,Australia,Education
+INC-2306,2023,SQL Injection,52.35,Russia,IT
+INC-2309,2023,SQL Injection,8.24,Japan,IT
+INC-2314,2023,Malware,85.28,France,Healthcare
+INC-2322,2023,Malware,23.16,Japan,IT
+INC-2341,2023,Malware,37.07,China,Education
+INC-2349,2023,Man-in-the-Middle,15.01,UK,Banking
+INC-2361,2023,DDoS,2.27,India,Healthcare
+INC-2372,2023,SQL Injection,13.51,Japan,Government
+INC-2380,2023,DDoS,99.64,USA,IT
+INC-2385,2023,Man-in-the-Middle,65.8,Japan,Banking
+INC-2388,2023,Man-in-the-Middle,22.96,China,IT
+INC-2391,2023,DDoS,81.91,UK,Telecommunications
+INC-2395,2023,Ransomware,18.26,India,Healthcare
+INC-2416,2023,Ransomware,52.88,Germany,Banking
+INC-2443,2023,SQL Injection,7.33,Brazil,Healthcare
+INC-2449,2023,DDoS,57.25,Russia,Telecommunications
+INC-2451,2023,Phishing,5.11,India,Retail
+INC-2461,2023,Phishing,82.36,Japan,Banking
+INC-2463,2023,Ransomware,57.15,India,Banking
+INC-2468,2023,Man-in-the-Middle,10.55,China,Education
+INC-2470,2023,SQL Injection,66.92,China,Telecommunications
+INC-2478,2023,Phishing,15.49,France,IT
+INC-2485,2023,DDoS,90.38,USA,Education
+INC-2493,2023,SQL Injection,53.21,China,IT
+INC-2503,2023,Man-in-the-Middle,92.48,Germany,Banking
+INC-2521,2023,SQL Injection,20.95,Australia,Telecommunications
+INC-2539,2023,Man-in-the-Middle,23.28,Germany,Retail
+INC-2548,2023,Man-in-the-Middle,95.66,India,Retail
+INC-2565,2023,Malware,95.0,Russia,Telecommunications
+INC-2577,2023,Phishing,9.95,India,Education
+INC-2594,2023,DDoS,73.85,India,Retail
+INC-2605,2023,SQL Injection,0.98,Russia,Education
+INC-2607,2023,Man-in-the-Middle,7.54,Australia,Healthcare
+INC-2619,2023,Man-in-the-Middle,81.16,USA,Retail
+INC-2628,2023,SQL Injection,19.17,UK,Education
+INC-2646,2023,Ransomware,49.89,UK,Banking
+INC-2654,2023,DDoS,81.89,Australia,IT
+INC-2667,2023,Phishing,23.01,Brazil,IT
+INC-2680,2023,Ransomware,42.02,India,Banking
+INC-2692,2023,Malware,55.72,Australia,Government
+INC-2693,2023,Malware,67.77,Japan,Telecommunications
+INC-2737,2023,SQL Injection,98.91,USA,Banking
+INC-2741,2023,DDoS,26.01,India,Retail
+INC-2745,2023,Man-in-the-Middle,58.9,India,IT
+INC-2765,2023,Man-in-the-Middle,45.16,UK,Government
+INC-2771,2023,SQL Injection,76.58,Brazil,Healthcare
+INC-2776,2023,Man-in-the-Middle,24.28,UK,Banking
+INC-2780,2023,Man-in-the-Middle,0.61,Germany,Government
+INC-2786,2023,Malware,25.7,Australia,Banking
+INC-2791,2023,Ransomware,87.45,France,IT
+INC-2812,2023,Malware,34.66,UK,Education
+INC-2818,2023,Phishing,78.28,Australia,Retail
+INC-2824,2023,DDoS,78.71,Russia,Banking
+INC-2827,2023,DDoS,67.59,Japan,Government
+INC-2836,2023,Phishing,55.94,China,Banking
+INC-2840,2023,Phishing,91.02,Australia,Government
+INC-2847,2023,Ransomware,30.45,Brazil,Healthcare
+INC-2848,2023,Malware,22.24,UK,IT
+INC-2864,2023,Ransomware,62.21,China,Healthcare
+INC-2867,2023,DDoS,17.69,Japan,Government
+INC-2868,2023,DDoS,55.14,USA,IT
+INC-2875,2023,Phishing,6.18,USA,Telecommunications
+INC-2876,2023,Phishing,55.7,Japan,Retail
+INC-2883,2023,Man-in-the-Middle,48.19,UK,Government
+INC-2893,2023,DDoS,79.86,France,Retail
+INC-2896,2023,SQL Injection,78.57,Australia,Retail
+INC-2920,2023,SQL Injection,22.8,UK,Healthcare
+INC-2921,2023,Ransomware,89.71,Germany,Retail
+INC-2933,2023,SQL Injection,48.84,Russia,Telecommunications
+INC-2952,2023,Malware,69.39,Germany,Government
+INC-2963,2023,Malware,28.79,UK,Retail
+INC-2973,2023,Man-in-the-Middle,12.96,India,Retail
+INC-2979,2023,Malware,70.36,India,Healthcare
+INC-2986,2023,SQL Injection,79.71,Russia,Telecommunications
+INC-2997,2023,SQL Injection,30.28,Brazil,Telecommunications

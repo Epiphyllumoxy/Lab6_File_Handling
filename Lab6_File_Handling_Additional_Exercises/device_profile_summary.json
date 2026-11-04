@@ -1,0 +1,12 @@
+{
+    "Operating system and behavior class": "Android | Class 4",
+    "Total records in dataset": 700,
+    "Records matching operating system": 554,
+    "Records in target behavior class": 110,
+    "Average battery drain (mAh/day)": 2101.22,
+    "Average data usage (MB/day)": 1235.07,
+    "Count verification": "Passed",
+    "Exported CSV file": "filtered_user_behavior.csv",
+    "JSON summary file": "device_profile_summary.json",
+    "Backup file and size": "filtered_user_behavior_backup.csv (4628 bytes)"
+}
