@@ -1,0 +1,5 @@
+Student: Culata
+Student ID: TUPM-26-1838
+Seed digit: 8
+ID Sum: 28
+Verification Value: 176
